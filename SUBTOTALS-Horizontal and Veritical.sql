@@ -48,7 +48,7 @@ Insert into ROLES (ROLE,DEPT,SAL) values ('Tester','10','1750');
 Insert into ROLES (ROLE,DEPT,SAL) values ('Tech-Lead','10','3500');
 Insert into ROLES (ROLE,DEPT,SAL) values ('Developer','10','2500');
 Insert into ROLES (ROLE,DEPT,SAL) values ('Analyst','20','5000');
-Insert into ROLES (ROLE,DEPT,SAL) values ('Tech-Lead','20','3500');
+Insert into ROLES (ROLE,DEPT,SAL) values ('Tech-Lead','20','3000');
 Insert into ROLES (ROLE,DEPT,SAL) values ('Tester','30','1850');
 Insert into ROLES (ROLE,DEPT,SAL) values ('Developer','30','2550');
 INSERT INTO ROLES (ROLE,DEPT,SAL) VALUES ('Tester','20','1500');
